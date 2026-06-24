@@ -1,0 +1,59 @@
+NOTE!: this file have to be deleted, it's only to remember how this folder is structured.
+
+my-project/
+│
+├── README.md              # What the project is
+├── LICENSE
+├── TODO.md                # Tasks and ideas
+├── CHANGELOG.md           # Version history
+│
+├── docs/                  # Notes, documentation, planning
+│   ├── ideas/
+│   ├── research/
+│   ├── sketches/
+│   └── references/
+│
+├── src/                   # Main project files
+│
+├── assets/                # Images, audio, fonts, videos
+│   ├── images/
+│   ├── audio/
+│   └── video/
+│
+├── data/                  # JSON, CSV, databases, datasets
+│
+├── tools/                 # Helper tools/scripts
+│
+├── tests/                 # Experiments and testing
+│
+├── builds/                # Exported/final versions
+│
+├── archive/               # Old files and backups
+│
+└── temp/                  # Temporary work
+
+
+Explaining:
+It separates projects into simple human categories:
+
+Folder	     Purpose
+src	  Actual work
+docs	  Thinking/planning
+assets	  Media/resources
+data	  Structured information
+tools	  Utilities/helpers
+tests	  Safe experimentation
+builds	  Final exports/releases
+archive	  Old stuff you may need later
+temp	  Messy temporary files
+
+
+Origin of git and github:
+Git was created by Linus Torvalds in April 2005, with the first commit made on April 7, 2005.
+He developed the initial version in approximately 10 days after losing access to the proprietary
+BitKeeper software.
+
+GitHub was not created by Linus Torvalds; it was founded by Chris Wanstrath, PJ Hyett, and
+Tom Preston-Werner in 2007 (launched publicly in April 2008) as a hosting platform for Git
+repositories. Torvalds maintains his Linux kernel project on GitHub but did not create the
+platform.
