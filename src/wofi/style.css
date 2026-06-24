@@ -1,0 +1,13 @@
+window {
+    margin: 148px;
+    border: 2px solid #89b4fa;
+    background-color: #1e1e2e;
+}
+
+#input {
+    margin: 4px;
+    border: none;
+    color: white;
+    background-color: #313244;
+}
+

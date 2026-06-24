@@ -1,0 +1,22 @@
+There are 9 possible locations which can be specified either by name or by number, the number scheme is the same as in rofi and the corresponding number is listed next to the names below, the default is center.
+
+1.
+    center 0
+2.
+    top_left 1
+3.
+    top 2
+4.
+    top_right 3
+5.
+    right 4
+6.
+    bottom_right 5
+7.
+    bottom 6
+8.
+    bottom_left 7
+9.
+    left 8 
+
+

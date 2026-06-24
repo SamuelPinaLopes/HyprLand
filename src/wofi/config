@@ -1,0 +1,20 @@
+# position
+location=top
+
+# type of window (wayland)
+normal_window=false
+
+# size of the window
+width=600
+height=40
+
+# customization
+show=drun
+prompt=
+#lines=1 # the less  you can have is one.
+#columns=2
+allow_images=true
+image_size=24
+matching=fuzzy
+insensitive=true
+hide_scroll=true
